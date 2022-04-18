@@ -1,3 +1,3 @@
 - 👋 Hey, My name is Pan.
-- 👀 I’m a computer science student.
+- 👀 Computer science student.
 - 📫 You can contact me through my email address: pan.1245.dev@gmail.com
